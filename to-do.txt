@@ -1,0 +1,5 @@
+To-do:
+1. Adding a drawer.
+2. Authentication for login.
+3. Password criteria for creating password.
+4. Add a user's account page (currently the screen with the "logout" button).
